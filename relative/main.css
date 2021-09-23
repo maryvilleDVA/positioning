@@ -1,0 +1,33 @@
+body {
+	padding: 0;
+	margin: 0;
+	font-family: sans-serif;
+}
+
+.shell {
+	width: 500px;
+	margin-right: auto;
+	margin-left: auto;
+	background-color: #333;
+}
+
+.square {
+	width: 200px;
+	height: 200px;
+}
+
+.red {
+	background-color: red;
+}
+
+.green {
+	background-color: green;	
+}
+
+.blue {
+	background-color: blue;
+}
+
+.yellow {
+	background-color: yellow;
+}
